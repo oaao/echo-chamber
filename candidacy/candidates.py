@@ -1,8 +1,4 @@
-import itertools
-
-import pprint
-
-candidates = [
+CANDIDATES = [
 
     # category
     'cryptocurrency ICOs',
