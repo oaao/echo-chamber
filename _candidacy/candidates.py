@@ -25,11 +25,11 @@ CANDIDATES = [
     'Mark Zuckerberg - testimony',
     'Richard Stallman',
     'Linus Torvalds',
-    'Donald Trump',
+    'Donald Trump', # tweets
     'Greta Thunberg',
     'Alex Jones',
-    'Barack Obama',
+    'Barack Obama', # presidential speeches
 
     # resource (encyclopedia-like)
-    'Erowid',
+    'Erowid experience reports',
 ]
