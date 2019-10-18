@@ -103,3 +103,7 @@ Pipfile*
 
 # mypy
 .mypy_cache/
+
+# actual Twitter bot configs
+config/available.py
+config/enabled.py
