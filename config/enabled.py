@@ -1,0 +1,3 @@
+ENABLED = [
+    'ExampleTwitterMarkovBot'
+]
