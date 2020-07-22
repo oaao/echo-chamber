@@ -12,7 +12,7 @@ See [/candidacy](./candidacy) for more information on pair selection and generat
 
 ## live examples
 
-- trump x erowid: [https://twitter.com/donaldtripping](/donaldtripping)
+- trump x erowid: [/donaldtripping](https://twitter.com/donaldtripping)
 
 ## references
 
