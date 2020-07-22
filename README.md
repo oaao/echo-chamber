@@ -10,6 +10,10 @@ This project creates bots that are pairwise mashups of individuals/texts from ou
 
 See [/candidacy](./candidacy) for more information on pair selection and generation.
 
+## live examples
+
+- trump x erowid: https://twitter.com/donaldtripping
+
 ## references
 
 * Eivind Arvesen (2018): [Paging Dr. Dankenstein](https://www.eivindarvesen.com/blog/2018/06/20/paging-dr--dankenstein)
