@@ -1,6 +1,6 @@
 # echo-chamber
 
-You, too, can summon various demons that make varyingly tawdry and superficially deep gesticulations on the well-respected public discourse platform Twitter.
+You, too, can summon various demons that make varyingly tawdry and superficially deep gesticulations on the well-respected public discourse platform "Twitter".
 
 >alt titles considered: `hieronymus-bot`, `garden-of-markov-delights`, `exquisite-corpora`
 
@@ -8,7 +8,9 @@ This project creates bots that are pairwise mashups of individuals/texts from ou
 
 ## background
 
-See [/candidacy](./candidacy) for more information on pair selection and generation.
+See [/\_candidacy](./_candidacy) for more information on pair selection and generation.
+
+See [/\_corpora](./_corpora) for corpora data & data processing functionality.
 
 ## live examples
 
